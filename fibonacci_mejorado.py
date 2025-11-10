@@ -19,6 +19,7 @@ Referencia: Classic Computer Science Problems with Python
             https://www.geeksforgeeks.org/python/use-yield-keyword-instead-return-keyword-python/
 
 Editor: Roberto Méndez Méndez
+Editor: Eder Yañez Díaz
 
 Created on Fri Jun 14 2024
 Edited: Apr 29 2025 (Versión Original)
